@@ -1,5 +1,5 @@
 # Processing-dark-purple-theme
-Processing as an IDE burns retinas, this dulls the blow and looks aesthetically pleasing while making reading easy for those with dyslexia.
+The Processing IDE burns your retinas, this dulls the blow and looks aesthetically pleasing while making reading easy for those with dyslexia.
 
 I couldn't find a dark theme for this IDE which helped my ability and efficiency to read, notes on what each group of
 commands is in the "theme" file so if you're unhappy with some of these changes too, you can go and change it yourself
